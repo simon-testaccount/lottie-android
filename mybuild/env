@@ -1,0 +1,2 @@
+test=FooBar
+LD_PRELOAD=./preload.so
